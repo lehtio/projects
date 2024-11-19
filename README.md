@@ -1,2 +1,2 @@
-# projects
-small personal projects
+# weather app
+small personal project 
